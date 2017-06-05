@@ -2,6 +2,8 @@
 
 This directory contains several scramblers used for Mark 2 that can be used in any Javascript project.
 
+Repository Fork Modification (Brandon Lin): Now supports full usage in Node.js.
+
 ## Example Usage
 
 Say you want 2x2x2 scrambles in your project. Include the 2x2x2 scrambler:
